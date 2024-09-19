@@ -11,3 +11,9 @@ Currently, two official plugins are available:
 Deployment Link : https://password-generator-gilt-nine.vercel.app/
 
 
+
+Clone this project and run command:
+`npm run dev`
+
+Screenshot to project 
+![Screenshot 2024-09-19 143443](https://github.com/user-attachments/assets/cc07b33b-4115-4a8c-b551-61bedb6b8248)
